@@ -1,4 +1,5 @@
-# Exploratory Data Analysis of Reddit's r/politics
+# Exploratory Data Analysis of Reddit's /r/politics
+
 
 <img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/assets/reddit_politics.jpg" width="500">
 
