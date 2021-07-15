@@ -1,8 +1,22 @@
 # Exploratory Data Analysis of Reddit's r/politics
 
+<img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/assets/reddit_politics.jpg" width="500">
+
+<br>
+<br>
+
+## Links
+---
+
+1. [Blog Post: "Exploratory Data Analysis of Reddit's r/politics"](https://drusho.github.io/nlp/pandas/plotly/texthero/prawn/reddit/api/2021/07/13/_07_05_reddit_politics_eda.html)
+2. [Google Colab Notebook](https://colab.research.google.com/drive/1agUoLToktaw5SvuUzPnNigftivS_qLmt?usp=sharing)
+3. [Figures](https://github.com/drusho/eda_reddit_politics/tree/main/reports/figures)
+
+<br>
+<br>
 
 ## Project Goals
-
+---
 
 This notebook will focus on 'Hot' subreddit tab posts due to their focus on upvotes and recent comments.  Data from /r/politics will be scrapped using python library _Praw_.  Analysis will include determining top posts for this subreddit and understanding what factors contributed to their ranking beyond most upvotes and comments.  Such as the correlation between comments and points, word frequency and semantic analysis of post titles
 
@@ -10,7 +24,7 @@ This notebook will focus on 'Hot' subreddit tab posts due to their focus on upvo
 <br>
 
 ## Summary of Results
-
+---
 ### __Correlation of Post Score and Number of Comments__
 
 <img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/reports/figures/Correlation%20of%20Dataframe%20(Heatmap).png" width="500"/>
