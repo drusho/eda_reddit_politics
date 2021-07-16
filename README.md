@@ -1,5 +1,10 @@
-# Using Praw to Analyze Reddit's API Data
+# Data Analysis of Reddit's /r/politics
+##### _Using Praw to Access API Data from Reddit_
 
+
+
+
+<br> 
 
 <img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/assets/reddit_politics.jpg" width="500">
 
