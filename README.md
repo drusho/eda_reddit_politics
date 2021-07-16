@@ -14,7 +14,7 @@
 ## Links
 ---
 
-1. [Blog Post: "Data Analysis of Reddit's /r/Politics"](https://drusho.github.io/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/15/_07_05_reddit_politics_eda.html)
+1. [Blog Post: "Data Analysis of Reddit's /r/Politics"](https://drusho.github.io/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/05/reddit-politics-eda.html)
 2. [Google Colab Notebook](https://colab.research.google.com/drive/1agUoLToktaw5SvuUzPnNigftivS_qLmt?usp=sharing)
 
 <br>
