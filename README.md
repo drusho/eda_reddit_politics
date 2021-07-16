@@ -1,4 +1,4 @@
-# Using Praw to Analyze API Data from /r/politics on Reddit
+# Using Praw to Analyze API Data on Reddit
 
 
 <img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/assets/reddit_politics.jpg" width="500">
@@ -19,7 +19,7 @@
 ## Project Goals
 ---
 
-This notebook will focus on 'Hot' subreddit tab posts due to their focus on upvotes and recent comments.  Data from /r/politics will be scrapped using python library _Praw_.  Analysis will include determining top posts for this subreddit and understanding what factors contributed to their ranking beyond most upvotes and comments.  Such as the correlation between comments and points, word frequency and semantic analysis of post titles
+This notebook will focus on 'Hot' subreddit tab posts due to their focus on upvotes and recent comments.  Data from the subreddit /r/politics will be scrapped using the python library _Praw_.  This subreddit was chosen due to it's active userbase.  Analysis will include determining top posts for this subreddit and understanding what factors contributed to their ranking beyond most upvotes and comments.  Such as the correlation between comments and points, word frequency and semantic analysis of post titles
 
 <br>
 <br>
