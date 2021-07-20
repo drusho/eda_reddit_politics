@@ -1,3 +1,6 @@
+
+[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=flat&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?flat&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=flat&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=flat=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
+
 # Data Analysis of Reddit's /r/politics
 ##### _Using Praw to Access API Data from Reddit_
 
@@ -57,10 +60,3 @@ Word frequency showed that _Biden_ and _Trump_ were the most popular key words, 
 <img src="https://raw.githubusercontent.com/drusho/eda_reddit_politics/main/reports/figures/Sentiment%20of%20Post%20Titles%20(Histogram%20Plot).png" width="500">
 
 The majority of posts in /r/politics were found be _neutral_, followed by _negative_.
-
-<br>
-<br> 
-
-## Social Links
-
-[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=for-the-badge&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
